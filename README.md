@@ -1,6 +1,6 @@
 # Projects 🗃️
 
-# front end mini projects
+## front end mini projects
 Web pages built to practice frontend development ,cloned webpages.......etc.....
 
 - 01.Reponsive Tourist website home page - [CLICK HERE](https://mini-project-01-eight.vercel.app/)
