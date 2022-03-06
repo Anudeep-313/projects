@@ -1,4 +1,4 @@
-# projects
+# Projects 🗃️
 
 # front end mini projects
 Web pages built to practice frontend development ,cloned webpages.......etc.....
