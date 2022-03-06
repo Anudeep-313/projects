@@ -1,4 +1,6 @@
-# Projects 🗃️.                [CHECK MY PROFILE](https://github.com/Anudeep-313)
+# Projects 🗃️.                
+
+[CHECK MY PROFILE](https://github.com/Anudeep-313)
 
 ## front end mini projects
 Web pages built to practice frontend development ,cloned webpages.......etc.....
