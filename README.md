@@ -1,7 +1,5 @@
 # Projects 🗃️.                
 
-[CHECK MY PROFILE](https://github.com/Anudeep-313)
-
 ## front end mini projects
 Web pages built to practice frontend development ,cloned webpages.......etc.....
 
@@ -25,3 +23,5 @@ Web pages built to practice frontend development ,cloned webpages.......etc.....
 
 - 01.Notes taking app - using Node JS : [CLCK HERE](https://github.com/Anudeep-313/notes_taking_app)
 - 02.Weather web app - using Express JS : [CLICK HERE](https://weather-web-app-anudeep.herokuapp.com/) 
+
+[CHECK MY PROFILE](https://github.com/Anudeep-313)
